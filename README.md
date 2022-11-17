@@ -18,4 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 # Output
 ## Customer Module
 ![SIGN-UP PAGE](https://user-images.githubusercontent.com/62322340/202526698-cf84c1ea-860c-4800-a3ef-5af5a9a4849d.png)
+![SIGN-IN PAGE](https://user-images.githubusercontent.com/62322340/202526969-539340fd-bd8c-4976-ae4a-8d5510823a2d.png)
+
 
